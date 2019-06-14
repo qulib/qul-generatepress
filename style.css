@@ -1,0 +1,45 @@
+/*
+ Theme Name:   QUL GeneratePress
+ Description:  GeneratePress Child Theme for QUL
+ Author:       Paul Clifford
+ Template:     generatepress
+ Version:      1.0.0
+*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700,700i&display=swap");
+body {
+  font-family: "Open Sans", sans-serif;
+  background: url("images/qul-bg.svg") no-repeat;
+  background-size: cover; }
+
+a {
+  color: #1d70ad;
+  text-decoration: none; }
+  a:hover {
+    color: #b81237; }
+
+.site-header .site-branding .main-title a {
+  color: #002f5e; }
+
+#main .entry-header .entry-title {
+  font-weight: 300;
+  color: #002f5e; }
+
+#main .entry-content blockquote {
+  background: url("images/blockquote.svg") no-repeat;
+  border: none;
+  padding: 30px 0 14px 90px;
+  min-height: 105px; }
+  #main .entry-content blockquote p {
+    color: #b81237;
+    font-weight: 300;
+    font-style: italic; }
+
+.site-footer {
+  background: white; }
+  .site-footer .inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1rem; }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyIsInNhc3MvX3ZhcnMuc2NzcyIsInNhc3MvX2dsb2JhbC5zY3NzIiwic2Fzcy9faGVhZGVyLnNjc3MiLCJzYXNzL19tYWluLnNjc3MiLCJzYXNzL19mb290ZXIuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7Ozs7O0NDTUM7QUNMRCxtR0FBWTtBQ0RaO0VBQ0Usb0NER2lDO0VDRmpDLDhDQUE4QztFQUM5QyxzQkFBc0IsRUFBQTs7QUFHeEI7RUFDRSxjRE9pQjtFQ05qQixxQkFBcUIsRUFBQTtFQUZ2QjtJQUtJLGNESGdCLEVBQUE7O0FFUnBCO0VBR00sY0ZJZSxFQUFBOztBR05yQjtFQUdNLGdCQUFnQjtFQUNoQixjSEVlLEVBQUE7O0FHTnJCO0VBVU0sa0RBQWtEO0VBQ2xELFlBQVk7RUFDWix5QkFBeUI7RUFDekIsaUJBQWlCLEVBQUE7RUFidkI7SUFnQlEsY0hUWTtJR1VaLGdCQUFnQjtJQUNoQixrQkFBa0IsRUFBQTs7QUNuQjFCO0VBQ0UsaUJBQWlCLEVBQUE7RUFEbkI7SUFJSSxhQUFhO0lBQ2IsOEJBQThCO0lBQzlCLG1CQUFtQjtJQUNuQixlQUFlO0lBQ2YsYUFBYSxFQUFBIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */

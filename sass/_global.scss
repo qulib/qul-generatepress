@@ -1,0 +1,14 @@
+body {
+  font-family: $font-main;
+  background: url("images/qul-bg.svg") no-repeat;
+  background-size: cover;
+}
+
+a {
+  color: $link-blue;
+  text-decoration: none;
+
+  &:hover {
+    color: $queens-red;
+  }
+}
